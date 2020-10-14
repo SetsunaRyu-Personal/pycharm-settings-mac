@@ -2,6 +2,7 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="back_quote" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -16,6 +17,10 @@
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="RecentFiles" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Vcs.ShowMessageHistory">
