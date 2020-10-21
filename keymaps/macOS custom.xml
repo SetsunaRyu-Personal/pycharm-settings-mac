@@ -4,6 +4,7 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="back_quote" />
   </action>
+  <action id="CheckinProject" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta subtract" />
   </action>
@@ -71,6 +72,7 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="meta f3" />
     <keyboard-shortcut first-keystroke="meta f11" />
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
