@@ -68,8 +68,16 @@
     <keyboard-shortcut first-keystroke="meta r" />
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="meta f3" />
+    <keyboard-shortcut first-keystroke="meta f11" />
+  </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
